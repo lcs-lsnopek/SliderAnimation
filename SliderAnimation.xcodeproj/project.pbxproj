@@ -35,6 +35,7 @@
 		B2142354281C37AB00003686 = {
 			isa = PBXGroup;
 			children = (
+				B2142360281C37AC00003686 /* SliderAnimationApp.swift */,
 				B214235F281C37AC00003686 /* SliderAnimation */,
 				B214235E281C37AC00003686 /* Products */,
 			);
@@ -51,7 +52,6 @@
 		B214235F281C37AC00003686 /* SliderAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				B2142360281C37AC00003686 /* SliderAnimationApp.swift */,
 				B2142362281C37AC00003686 /* ContentView.swift */,
 				B2142364281C37B300003686 /* Assets.xcassets */,
 				B2142366281C37B300003686 /* Preview Content */,
